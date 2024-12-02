@@ -1,1 +1,2 @@
 # Landing-page
+This project will test the skills that I have learnt about flexbox and the attributes of this by having me use those said skills to create an entire webpage from scratch sing a provided design. There will be 2 images provided, one in the form of a complete website and the other which has details about some of the fonts and colours used. The end result should showcase the progress that I have made while building up my knowledge on certain skills that are important to know when doing these types of projects. 
